@@ -3,7 +3,7 @@ ArduinoButton
 
 Library to help controlling buttons in Arduino.
 
-You can download ArduinoButton library in a single zip file [here](https://github.com/carlosrafaelgn/ArduinoButton/blob/master/ArduinoButton.zip?raw=true)!
+**You can download ArduinoButton library in a single zip file [here](https://github.com/carlosrafaelgn/ArduinoButton/blob/master/ArduinoButton.zip?raw=true)!**
 
 ----
 
