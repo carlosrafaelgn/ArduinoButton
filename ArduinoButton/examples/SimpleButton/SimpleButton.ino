@@ -3,7 +3,7 @@
 Button button1;
 
 // Count how many times button1 has been pressed
-int times;
+unsigned short times;
 
 void setup()
 {
