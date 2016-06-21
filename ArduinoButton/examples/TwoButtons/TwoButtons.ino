@@ -1,3 +1,11 @@
+//******************************************************************
+// Copyright (c) 2015, Carlos Rafael Gimenes das Neves
+// This projected is licensed under the terms of the FreeBSD
+// License. See LICENSE.txt for more details.
+//
+// https://github.com/carlosrafaelgn/ArduinoButton
+//******************************************************************
+
 #include <ArduinoButton.h>
 
 Button button1;

@@ -1,3 +1,11 @@
+//******************************************************************
+// Copyright (c) 2015, Carlos Rafael Gimenes das Neves
+// This projected is licensed under the terms of the FreeBSD
+// License. See LICENSE.txt for more details.
+//
+// https://github.com/carlosrafaelgn/ArduinoButton
+//******************************************************************
+
 // If your buttons are active-low (their pins become 0 when pressed,
 // and 1 when released), please define ArduinoButtonPressedZero before
 // including the library
